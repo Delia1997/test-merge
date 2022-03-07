@@ -9,6 +9,7 @@ namespace test
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello from master!");
             Console.WriteLine("Hello from child!");
+            Console.WriteLine("Commit 2nd change!");
         }
     }
 }
